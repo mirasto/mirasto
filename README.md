@@ -1,37 +1,37 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Zenos
 
-🌱 I live in a small village, where I enjoy learning, building, and exploring technology in a peaceful environment.  
-🎸 I play guitar in my free time and love combining creativity with code.
-
----
-
-### 🔧 Technologies & Tools
-![Linux](https://img.shields.io/badge/-Linux-333?logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333?logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-333?logo=visual-studio-code&logoColor=blue)
-![Python](https://img.shields.io/badge/-Python-333?logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-333?logo=html5)
+I'm a front-end developer focused on building clean, responsive, and accessible web interfaces using modern technologies.
 
 ---
 
-### 🚀 Projects I'm working on
-- 🎮 `seshforce`: lightweight terminal game engine [🔗](https://github.com/mirasto/seshforce)
-- 🛠️ Learning Git, Bash, and low-level scripting
+### 🧰 Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
 ---
 
-### 📫 How to reach me
-[![Gmail](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
+### 📁 Recent Projects
+
+- 🔹 `my-portfolio` – personal website built with React + TailwindCSS  
+- 🔹 `dashboard-ui` – responsive admin dashboard layout with charts and dark mode  
+- 🔹 `auth-flow-demo` – authentication template with protected routes and form validation  
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
 ---
 
+### 📫 Contact
 
-     
+[![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
