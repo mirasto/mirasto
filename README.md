@@ -25,12 +25,6 @@ I'm a front-end developer focused on building clean, responsive, and accessible 
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
----
-
 ### 📫 Contact
 
 [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:your.email@example.com)
